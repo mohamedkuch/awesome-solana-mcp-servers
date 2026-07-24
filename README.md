@@ -26,7 +26,7 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 - [Memecoin Observatory MCP](https://github.com/tony-42069/solana-mcp.git) - A comprehensive Solana MCP server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data. Features real-time memecoin radar, social signal analysis, whale wallet tracking, and rugpull protection.
 - [Solana Wallet Security Scanner](https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner) - A MCP server that implements a Solana security analysis system. It allows users to scan wallets for threats, detect suspicious programs, and provides tools for monitoring blockchain activity via @solana/web3.js.
 - [MCP Meme Deployer](https://github.com/kirabuilds/mcp-meme-deployer) - A Model Context Protocol (MCP) server that allows Claude Desktop to deploy instantly tradable tokens on Solana at zero cost with just a simple conversation.
-- [Utilia Solana Preflight](https://github.com/mohamedkuch/utilia-x402) - A remote MCP server for live Solana priority-fee estimates, unsigned transaction simulation, confirmed-transaction diagnosis, and SPL token-risk inspection. Tools are available without API keys and use pay-per-call x402 USDC micropayments on Solana or Base.
+- [Utilia Solana Preflight](https://github.com/mohamedkuch/utilia-solana-agent) - A remote MCP server for live Solana priority-fee estimates, unsigned transaction simulation, confirmed-transaction diagnosis, SPL token-risk inspection, PDF conversion, and audio normalization. No API key is required; MCP tool calls use pay-per-call x402 USDC payments on Solana.
 
 
 ## Tools and Libraries
